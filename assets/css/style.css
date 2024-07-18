@@ -27,6 +27,14 @@
     background-color: #3498db;
 }
 
+.ui-menu-color-github {
+    background-color: #1c4a6c;
+}
+
+.ui-menu-color-interests {
+    background-color: #e74c3c;
+}
+
 .ui-menu-color-download {
     background-color: #525252;
 }
@@ -161,6 +169,9 @@ header {
     font-weight: 300;
     letter-spacing: 2px;
 }
+
+
+div#map {min-height: 360px;}
 
 /* ----------------------------Hover.css */
 .hvr-sweep-to-bottom:before {
