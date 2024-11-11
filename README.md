@@ -1,3 +1,8 @@
+Link to the live site here: [Resume-project](https://dionismaximus.github.io/Resume_Project/)
+
+![website_screenshot1]([url=https://ibb.co/LvN5hLp][img]https://i.ibb.co/1bz6JD2/resume-project.png[/img][/url])
+
+
 ![CI logo](https://codeinstitute.s3.amazonaws.com/fullstack/ci_logo_small.png)
 
 Welcome Denys Lytvynenko,
